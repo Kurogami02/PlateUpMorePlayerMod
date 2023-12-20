@@ -1,9 +1,9 @@
 # PlateUpMorePlayerMod
 Mod that adds more players to PlateUp.
 
-Instructions:
+```Instructions:
 
-Navigate to your plateup-folder (Where your plateup.exe is).
+```Navigate to your plateup-folder (Where your plateup.exe is).
 Extract the files from BepInEx.zip into the plateup-folder.
 Start the game and wait for the main menu to load.
 Close the game.
